@@ -20,29 +20,23 @@ To get started with this example project, follow the steps below:
 
     `npm install`
 
-4. Set up AWS Amplify:
-
-    `amplify configure`
-
-    Follow the prompts to enter your AWS access key and secret access key. If you don't have an AWS account, you will need to create one before proceeding.
-
-5. Initialize the Amplify project:
+4. Initialize the Amplify project:
 
     `amplify init`
 
     Follow the prompts to configure your Amplify project. You can choose the default options or customize them according to your requirements.
 
-6. Deploy the Amplify resources:
+5. Deploy the Amplify resources:
 
     `amplify push`
 
     This will create the necessary resources in your AWS account, such as authentication, storage, and API services.
 
-7. Start the local development server:
+6. Start the local development server:
 
-    `npm start`
+    `npm run dev`
 
-    The application will be accessible at [http://localhost:3000](http://localhost:3000/).
+    The application will be accessible at [http://localhost:5173](http://localhost:5173).
 
 Project Structure
 -----------------
