@@ -14,8 +14,6 @@ To get started with this example project, follow the steps below:
 
 2. Change into the project directory:
 
-    bashCopy code
-
     `cd amplify-first-example`
 
 3. Install the required dependencies:
